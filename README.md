@@ -1,5 +1,7 @@
 # 🤖 Многофункциональный Discord Бот
 
+⚠️ Бот больше не развиваеться.
+
 [![DISCORD](https://img.shields.io/badge/дискорд-blue.svg)](https://discord.gg/RxYVwkAZXZ)
 [![Python](https://img.shields.io/badge/Python-blue.svg)](https://python.org)
 
@@ -29,5 +31,3 @@
 
 - **Discord сервер**: [Присоединиться](https://discord.gg/RxYVwkAZXZ)
 - **Проблемы/предложения**: [Issues](https://github.com/LavaDev-project/LavaDevBot/issues)
-
-*Бот находится в активной разработке. Рекомендуется тестирование на тестовом сервере.*
